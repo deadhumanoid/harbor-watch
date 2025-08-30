@@ -1,0 +1,5 @@
+{
+  "name": "Coastal Threat Decision Assist System",
+  "description": "A dashboard for disaster management officers to monitor coastal weather changes, track localized data, and receive AI-assisted warnings and decision support for events like flooding, algal blooms, and cyclones.",
+  "requestFramePermissions": []
+}
